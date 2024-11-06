@@ -4,7 +4,7 @@ When the children are performing their regular day-today activities, some of the
 ![image](https://github.com/user-attachments/assets/d77857e2-87ca-42ae-b12e-1d03a7d21654)
 
 
-**problem statement** : 
+**Problem Statement** : 
 Develop an automated system for detecting and analyzing self-stimulatory behaviors in children with Autism Spectrum Disorder (ASD) through the analysis of video footage. The system understands the patterns of behaviors such as arm flapping, head banging, and spinning and provides the doctors with a detailed behavior analysis of patients.
 Utilize pose estimation algorithms and motion analysis techniques to extract relevant features from the video frames. Train machine learning models, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), to detect and classify self-stimulatory behaviors.
 The standard action recognition pipeline of interest point detection, feature extraction, generation of feature descriptors, model training and using it for recognition for a test video is to be followed on the dataset. 
